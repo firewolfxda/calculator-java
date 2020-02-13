@@ -17,5 +17,8 @@
     <img src="https://img.shields.io/badge/say%20thanks-!-1EAEDB.svg?style=flat-square"
       alt="Say Thanks" />
   </a>
+  <br>
+  <h4> Preview </h4>
 
+  ![Calculator](preview.jpg)
  </div>
