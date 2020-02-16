@@ -2,23 +2,12 @@
 
 <div align="center">
 
-<!-- Language-->
- <a href="#">
-    <img src="https://img.shields.io/badge/language-java-orange.svg?style=flat-square"
-    alt="Platforms">
- </a>
-<!-- Platforms -->
- <a href="#">
-    <img src="https://img.shields.io/badge/platform-cross-blue.svg?style=flat-square"
-    alt="Platforms">
- </a>
-<!-- Say Thanks -->
- <a href="https://saythanks.io/to/firewolfxda">
-    <img src="https://img.shields.io/badge/say%20thanks-!-1EAEDB.svg?style=flat-square"
-      alt="Say Thanks" />
-  </a>
-  <br>
-  <h4> Preview </h4>
+<!---status--->
+![Java CI](https://github.com/shovon668/calculator-java/workflows/Java%20CI/badge.svg?)
+
+A simple calculator app written in java!
+
+   <h4> Preview </h4>
 
   ![Calculator](preview.jpg)
  </div>
